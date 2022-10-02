@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\FinalProject\TimeKeeperFinal\TimeKeeperFinal.Core\bin\Release\netcoreapp3.1\TimeKeeperFinal.Core.deps.json
+C:\Users\user\Desktop\FinalProject\TimeKeeperFinal\TimeKeeperFinal.Core\bin\Release\netcoreapp3.1\TimeKeeperFinal.Core.dll
+C:\Users\user\Desktop\FinalProject\TimeKeeperFinal\TimeKeeperFinal.Core\bin\Release\netcoreapp3.1\TimeKeeperFinal.Core.pdb
+C:\Users\user\Desktop\FinalProject\TimeKeeperFinal\TimeKeeperFinal.Core\obj\Release\netcoreapp3.1\TimeKeeperFinal.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FinalProject\TimeKeeperFinal\TimeKeeperFinal.Core\obj\Release\netcoreapp3.1\TimeKeeperFinal.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FinalProject\TimeKeeperFinal\TimeKeeperFinal.Core\obj\Release\netcoreapp3.1\TimeKeeperFinal.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FinalProject\TimeKeeperFinal\TimeKeeperFinal.Core\obj\Release\netcoreapp3.1\TimeKeeperFinal.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\FinalProject\TimeKeeperFinal\TimeKeeperFinal.Core\obj\Release\netcoreapp3.1\TimeKeeperFinal.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FinalProject\TimeKeeperFinal\TimeKeeperFinal.Core\obj\Release\netcoreapp3.1\TimeKeeperFinal.Core.dll
+C:\Users\user\Desktop\FinalProject\TimeKeeperFinal\TimeKeeperFinal.Core\obj\Release\netcoreapp3.1\TimeKeeperFinal.Core.pdb

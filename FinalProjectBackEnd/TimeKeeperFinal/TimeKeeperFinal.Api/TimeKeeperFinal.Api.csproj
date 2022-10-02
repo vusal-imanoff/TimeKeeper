@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\downloads\" />
+    <Folder Include="wwwroot\blogs\" />
+    <Folder Include="wwwroot\brands\" />
+    <Folder Include="wwwroot\sliders\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.27" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.27">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TimeKeeperFinal.Data\TimeKeeperFinal.Data.csproj" />
+    <ProjectReference Include="..\TimeKeeperFinal.Service\TimeKeeperFinal.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>
